@@ -1,6 +1,6 @@
 variables:
   azureSubscription: VOSDefaultDevOps
-  resourcegroup: insurance-isg-devops-demo-1
+  resourcegroup: insurance-isg-devops-demo
   location: 'East US'
   ImageName: website
 
