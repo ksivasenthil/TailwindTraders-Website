@@ -1,5 +1,5 @@
 variables:
-  azureSubscription: VOSDefaultDevOps
+  azureSubscription: VOSDevOps
   resourcegroup: insurance-isg-devops-demo
   location: 'East US'
   ImageName: website
